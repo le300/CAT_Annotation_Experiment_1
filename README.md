@@ -19,7 +19,8 @@ A list of files in this repository, each with a short description:
 
 * [ComicPages](ComicPages) - This folder contains all the comic pages that were annotated in the annotation experiments described in the paper. 
 
-  * [Story1](Story1) - This folder contains all five comics pages for Story 1 as pdfs, as well as a the publication information. 
+  * [Story1](ComicPages/Story1) - This folder contains all five comics pages of "The Cadmus Seed!" as pdfs. [Story1_Info.md](ComicPages/Story1/Story1_Info.md) provides the authorship and publication information. 
+  * 
 
 
 
