@@ -17,7 +17,7 @@ A list of files in this repository, each with a short description:
 
 * [CAT_instructions.pdf](CAT_instructions.pdf) - This pdf provides detailed, step-by-step instructions for how to use the CAT to annotate comics. 
 
-* [ComicPages](ComicPages) - This folder contains all the comic pages that were annotated in the annotation experiments described in the paper. 
+* [ComicPages](ComicPages) - This folder contains pdfs of all the comic pages that were annotated in the annotation experiments described in the paper. 
 
   * [Story1](ComicPages/Story1) - This folder contains all five pages of "The Cadmus Seed!" as pdfs. [Story1_Info.md](ComicPages/Story1/Story1_Info.md) provides the authorship and publication information. 
   * [Story2](ComicPages/Story2) - This folder contains all five pages of "The Fourth Dimension is a Many Splattered Thing!" as pdfs. [Story2_Info.md](ComicPages/Story2/Story2_Info.md) provides the authorship and publication information.
