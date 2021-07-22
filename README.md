@@ -17,6 +17,10 @@ A list of files in this repository, each with a short description:
 
 * [CAT_instructions.pdf](CAT_instructions.pdf) - This pdf provides detailed, step-by-step instructions for how to use the CAT to annotate comics. 
 
+* [ComicPages](ComicPages) - This folder contains all the comic pages that were annotated in the annotation experiments described in the paper. 
+
+  * [Story1](Story1) - This folder contains all five comics pages for Story 1 as pdfs, as well as a the publication information. 
+
 
 
   
